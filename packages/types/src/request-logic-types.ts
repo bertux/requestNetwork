@@ -270,6 +270,7 @@ export enum CURRENCY {
   BTC = 'BTC',
   ISO4217 = 'ISO4217',
   ERC20 = 'ERC20',
+  ERC777 = 'ERC777',
 }
 
 /** States of a request */
