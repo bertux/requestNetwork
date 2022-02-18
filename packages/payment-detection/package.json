@@ -1,6 +1,6 @@
 {
   "name": "@bertux/payment-detection",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "publishConfig": {
     "access": "public"
   },
@@ -10,11 +10,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bertux/requestNetwork/requestNetwork.git"
+    "url": "git+https://github.com/bertux/requestNetwork.git"
   },
-  "homepage": "https://github.com/bertux/requestNetwork/requestNetwork/tree/master/packages/payment-detection#readme",
+  "homepage": "https://github.com/bertux/requestNetwork/tree/master/packages/payment-detection#readme",
   "bugs": {
-    "url": "https://github.com/bertux/requestNetwork/requestNetwork/issues"
+    "url": "https://github.com/bertux/requestNetwork/issues"
   },
   "license": "MIT",
   "engines": {
